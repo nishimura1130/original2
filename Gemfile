@@ -70,4 +70,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'devise'
 gem "bulma-rails"
-gem 'rails-admin'
+gem 'rails_admin', '~> 2.0.0.beta'
+gem 'cancancan'
