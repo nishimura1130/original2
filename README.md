@@ -58,3 +58,4 @@ https://docs.google.com/spreadsheets/d/1QWTDH_myUR4kfkspX3AxW7WeNXgKTfV-txjMUjvh
 ![B8DC7EA8-8AD8-4F31-AF93-A5659D7AAD09](https://user-images.githubusercontent.com/77220182/129830879-f26d91f1-8a2f-4434-bc86-f8fbcb22719d.jpeg)
 
 # original2
+# gim
